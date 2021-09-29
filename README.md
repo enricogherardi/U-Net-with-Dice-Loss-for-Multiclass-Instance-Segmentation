@@ -23,4 +23,4 @@ With the dice-loss we get an average boost in the meanIoU from 1 to 5 per cent i
 
 ## Conclusion
 
-For a more in-depth analysis I recommend you to read the report of the challenge.
+For a more in-depth analysis I recommend you to read the report of the challenge. The final evaluation of this project by our professor was 2.0/2.0.
